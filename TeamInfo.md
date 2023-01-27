@@ -1,19 +1,21 @@
-# team000-sample
+# team072-exe
 
 ## Basic Information
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |        Team-000        |
-| TeamName    |         sample         |
-| Captain     |       Abdu Alawini     |
-| Captain     |  alawini@illinois.edu  |
-| Member1     |        Kevin Pei       |
-| Member1     |   kevin2@illinois.edu  |
-| Member2     |  Dattatreya Mohapatra  |
-| Member2     |   datta1@illinois.edu  |
-| Member3     |     Ti-Chung Cheng     |
-| Member3     |  tichung3@illinois.edu |
+| TeamID      |        Team-072        |
+| TeamName    |         exe            |
+| Captain     |                        |
+| Captain     |                        |
+| Member1     |        Samvit Dedhia   |
+| Member1     |  sdedhia2@illinois.edu |
+| Member2     |  Charlie Kassmir       |
+| Member2     |   kassmir2@illinois.edu|
+| Member3     |     Dhruv Auti         |
+| Member3     |  	dhruvda2@illinois.edu|
+| Member4     | Egbunam Ebuka Elton-John|
+| Member4     |  eegbun2@illinois.edu |
 
 ## Project Information
 
