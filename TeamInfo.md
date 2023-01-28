@@ -6,8 +6,8 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-072        |
 | TeamName    |         exe            |
-| Captain     |                        |
-| Captain     |                        |
+| Captain     |          Samvit Dedhia              |
+| Captain     |              sdedhia2          |
 | Member1     |        Samvit Dedhia   |
 | Member1     |  sdedhia2@illinois.edu |
 | Member2     |  Charlie Kassmir       |
